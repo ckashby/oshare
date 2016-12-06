@@ -1,0 +1,94 @@
+Monicare.co  Business Plan
+============================================================================== version 0.1
+
+Monicare provides simplified tablet computers to seniors in assisted living facilities.  
+The Monicare tablet has unlimited Movies, TV, Music, Sports, News, Books, Magazines 
+and family photos. The Monicare interface uses large fonts for easy reading and a patented 
+interface to the Entertainment, Calendar and Family Messages.  Monicare preloads the 
+tablets with family photos, personal interests and a calendar of dates and appointments.
+
+The Monicare tablets are mounted on a rolling stand with soft headphones.
+
+
+Benefits to Assisted Living:
+
+Assisted Living get to showcase the latest greatest technology.
+Potential to have tablet collect from sensors for heart, breathing and temperature.
+
+
+Benefits to Family and Friends:
+
+Easy to share photos, audio and video with loved one.
+Easy to send text messages with pictures, etc.
+Easy to add events to the seniors calendar.
+
+Benefits to Senior:
+
+Entertainment 
+TV & Movies - History Channel, Crafts Channel, Nature Channel, etc...
+Brain Games
+Music
+Sports
+Concerts & Opera
+Family Photos & Video
+eBooks
+News and Magazines
+Remotely updates of software and content.
+
+Simplified interface to NetFlix, Email, Spotify, etc...
+
+
+Big Screen TV in bedroom linked to tablet for additional $35.  ChromeCast.
+
+
+Augmented Reality Features:
+
+Videos, news and magazine articles are selected automatically and curated by a human while we develop the algorithms for the many different interests.  Initially it may be done manually once a month or every two weeks.
+
+
+
+---- TODO ---- TODO ---- TODO ---- TODO ---- TODO ---- TODO ---- TODO ---- TODO ---- TODO ----
+
+Pricing to be determined.
+
+Cost of hardware, setup, bandwidth and services?
+
+Write marketing copy.  Stock photos of happy families and seniors.
+
+Web site and paper brochure.
+
+Negotiate with Netflix, etc. for quantity discounts and automatic account setup.
+Negotiate with T-Mobile, etc. for quantity discounts and automatic account setup.
+Negotiate with Photos.Google.com, etc. for automatic account setup.
+Negotiate with gMail, etc. for automatic account setup.
+
+Permission to overlay services with a simplified interface.  Use logos, etc...
+
+---- END ---- END ---- END ---- END ---- END ---- END ---- END ---- END ---- END ---- END ---- END 
+
+
+
+
+
+Pricing    $495 setup fee. Then $99 / mo.
+
+Netflix, Spotify, Hulu & YouTube get $40.
+Will Netflix, etc. give us a discount?
+
+T-Mobile gets $25 / mo.  What about other Carriers?
+We get $34 / mo. ???
+What are our cloud hosting costs?
+Setup labor costs?
+photos.google.com will host their images and video for free.
+T-Mobile will provide unlimited streaming.
+
+Big Screen TV in bedroom linked to tablet for additional $35.  ChromeCast.
+
+We need to automate the setup process and signing up for NFlix, Hulu, Gmail, Photos.Google.com, etc.
+
+Hardware Costs?  Approx. $200. Next year it will be $100.  2 years $50.
+
+Do we sell the tablet or lease it?  
+Included for free, but we own it?
+Then we can upgrade software or hardware whenever we want to.
+

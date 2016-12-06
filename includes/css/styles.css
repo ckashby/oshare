@@ -17,7 +17,7 @@ Updated: August 2015
 }
 
 #topMenu img {
-    margin: 10px 10px 10px 10px;
+    margin: 1px 1px 1px 1px;
 }
 
 #bottomMenu {
@@ -36,7 +36,6 @@ Updated: August 2015
    body {
       -webkit-font-smoothing: antialiased;
       text-rendering: optimizeLegibility;
-      background-color: aqua;
    }
 
    .well .page-header {
@@ -87,6 +86,11 @@ Updated: August 2015
 
 /* Landscape phone to portrait tablet */
 @media (max-width: 768px) {
+
+}
+
+/* Landscape tablet or medium sized device */
+@media (max-width: 992px) {
 
 }
 
